@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FilaGenerica">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/FilaGenerica.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
